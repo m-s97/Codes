@@ -4,6 +4,8 @@ import java.util.HashMap;
 
 /*
  * Given a 2D matrix, find the largest rectangular sub-matrix whose sum is 0. 
+ * Largest area rectangular sub-matrix with equal number of 1’s and 0’s problem can also be solved using same approach, only 
+ * 0 needs to replaced with -1, and we can solved this same question.
  */
 // Similar approach as Maximum Sum Rectangle problem
 public class LargestSubMatrixSum0 {
